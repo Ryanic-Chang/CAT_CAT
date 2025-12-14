@@ -46,6 +46,7 @@ npm run build
 
 - **设置 API Key**（Popup 页面）：
   - 打开工具栏图标 → 输入并保存 Qwen API Key（仅此一项设置）。
+  - API Key为[阿里云百炼平台](https://bailian.console.aliyun.com/?tab=model#/api-key)，可以先在[此处](https://university.aliyun.com/)领取阿里云的学生优惠每年300元额度。
 - **悬浮菜单**（页面右下角猫猫）：
   - 悬停显示菜单：书签 / AI 总结 / 提醒开关
   - 书签：弹出文件夹选择，支持新建，保存成功会提示
