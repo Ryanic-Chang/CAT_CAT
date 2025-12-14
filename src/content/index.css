@@ -1,0 +1,14 @@
+#cat-cat-extension-root {
+  position: fixed;
+  z-index: 999999;
+  pointer-events: none; /* 让点击穿透，除非点在猫咪上 */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.cat-cat-widget {
+  pointer-events: auto;
+  position: absolute;
+}
